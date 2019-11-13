@@ -11,7 +11,7 @@ module.exports = {
     "globals": {
     },
     // 解析器用于解析代码
-    parser: "babel-eslint",
+    "parser": "babel-eslint",
     // 解析器配置
     "parserOptions": {
         "ecmaVersion": 2018, //ES的版本
